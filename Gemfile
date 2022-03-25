@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem "rails"
 gem "jekyll", "~> 4.2"
 gem "webrick", "~> 1.7"
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "~>202", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 
 #gem "jekyll-theme-minimal"
