@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem "jekyll", "~> 4"
+gem "jekyll", "~> 4.2"
 #gem "jekyll-theme-minimal"
 
 gem "github-pages", group: :jekyll_plugins
