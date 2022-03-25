@@ -2,13 +2,13 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
-
+gem "rails"
 gem "jekyll", "~> 4.2"
-#gem "jekyll-theme-minimal"
-
+gem "webrick", "~> 1.7"
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
+
+#gem "jekyll-theme-minimal"
 
 #group :jekyll_plugins do
 #    gem 'jekyll-sitemap'
@@ -16,7 +16,7 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 #    gem 'jekyll-seo-tag'
 #  end
 
-gem "webrick", "~> 1.7"
+
 
 #gem "jekyll-theme-architect", "~> 0.2.0"
 
