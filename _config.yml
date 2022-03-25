@@ -2,7 +2,7 @@ collections:
   authors:
     output: true
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 
 defaults:
   - scope:
