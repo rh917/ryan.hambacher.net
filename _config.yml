@@ -2,7 +2,6 @@ collections:
   authors:
     output: true
 
-theme: minimal-mistakes-jekyll
 
 defaults:
   - scope:
