@@ -26,3 +26,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache
+
+theme: jekyll-theme-slate
