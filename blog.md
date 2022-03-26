@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-This is a placeholder for a blog.
+This is a placeholder for a blog. Below will contain blog entries and other musings. 
 
 
 <div id="home">
