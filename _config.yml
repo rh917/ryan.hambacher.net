@@ -17,6 +17,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+github: [metadata]
+include: ["_pages"]
 
 title: My Website
 email: none@none.com
@@ -32,7 +34,7 @@ github_username:  none
 
 # Build settings
 #theme: minima
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: single
 title: Resume
 permalink: /cv/
-order: 3
 ---
 
 This is a placeholder for a resume

@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: single
 title: Blog
 permalink: /blog/
-order: 2
 ---
 
 This is a placeholder for a blog. Below will contain blog entries and other musings. 
