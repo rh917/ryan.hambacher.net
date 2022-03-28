@@ -41,6 +41,7 @@ plugins:
   - jekyll-gist
   - jekyll-include-cache
   - jemoji
+  - jekyll-menus
 
 include:
   - _pages
