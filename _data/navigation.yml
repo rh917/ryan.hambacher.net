@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "Home"
+  - title: Home
     url: index.html
-  - title: "About"
+  - title: About
     url: /about/
-    children:
-      - title: "Resume"
+    subnav:
+      - title: Resume
         url: /cv/
-  - title: "Blog"
+  - title: Blog
     url: /blog/
     subnav:
-      - title: "Recipes"
+      - title: Recipes
         url: /recipes/
