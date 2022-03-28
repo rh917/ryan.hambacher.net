@@ -35,7 +35,7 @@ This page is a placeholder for information about the site and/or author. Content
 | [Categories Archive][categories-archive] | Posts grouped by category. |
 | [Tags Archive][tags-archive] | Posts grouped by tags. |
 
-For even more demo pages check the [posts archive][year-archive].
+
 
 [header-image-post]: {{ base_path }}{% post_url 2012-03-15-layout-header-image-text-readability %}
 [gallery-post]: {{ base_path }}{% post_url 2010-09-09-post-gallery %}
