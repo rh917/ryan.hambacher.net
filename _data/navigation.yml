@@ -2,11 +2,14 @@
 main:
   - title: "Home"
     url: index.html
+  - title: "Home 2 - testing"
+    url: /home2/
   - title: "About"
     url: /about/
+    children:
+      - title: "Resume"
+        url: /cv/
   - title: "Blog"
     url: /blog/
-  - title: "Resume"
-    url: /cv/
   #- title: "Sitemap"
   #  url: /sitemap/
