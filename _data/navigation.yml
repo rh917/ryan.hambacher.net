@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: index.html
-  - title: "Home 2"
-    url: /home2/
+  #- title: "Home 2"
+  #  url: /home2/
   - title: "About"
     url: /about/
     children:
