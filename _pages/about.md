@@ -12,7 +12,7 @@ layouts_gallery:
   - url: /images/mm-layout-archive.png
     image_path: /images/mm-layout-archive.png
     alt: "archive layout example"
-modified: 2016-04-18T16:39:37-04:00
+modified: 2022-03-28T18:00:00-05:00
 ---
 
 {% include base_path %}
