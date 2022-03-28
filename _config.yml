@@ -21,7 +21,7 @@ name                      : &name "Your Name"
 email                     : none@none.com
 description               : >- # this means to ignore newlines until "baseurl:"
                                 Hey this is just a site description.
-baseurl                   : "" # the subpath of your site, e.g. /blog
+baseurl                   : "/" # the subpath of your site, e.g. /blog
 url                       : "https://ryan.hambacher.net"
 domain                    : "ryan.hambacher.net"
 twitter_username          : rhambacher
@@ -30,8 +30,7 @@ github_username           :  rh917
 
 
 # Build settings
-github:
-  - metadata
+github: [metadata]
 
 remote_theme              : mmistakes/minimal-mistakes@4.24.0
 plugins:
