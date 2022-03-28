@@ -11,5 +11,8 @@ main:
         url: /cv/
   - title: "Blog"
     url: /blog/
+    children:
+      - title: "Recipes"
+        url: /recipes/
   #- title: "Sitemap"
   #  url: /sitemap/
