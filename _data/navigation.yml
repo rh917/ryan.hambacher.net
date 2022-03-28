@@ -2,8 +2,6 @@
 main:
   - title: "Home"
     url: index.html
-  #- title: "Home 2"
-  #  url: /home2/
   - title: "About"
     url: /about/
     children:
@@ -11,8 +9,6 @@ main:
         url: /cv/
   - title: "Blog"
     url: /blog/
-    children:
+    subnav:
       - title: "Recipes"
         url: /recipes/
-  #- title: "Sitemap"
-  #  url: /sitemap/
