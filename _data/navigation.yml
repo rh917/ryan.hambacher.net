@@ -4,11 +4,12 @@ main:
     url: index.html
   - title: About
     url: /about/
-    subnav:
+    children:
       - title: Resume
         url: /cv/
-  - title: Blog
-    url: /blog/
-    subnav:
-      - title: Recipes
+  - title: Docs
+    children:
+      - title: "Blog"
+        url: /blog/
+      - title: "Recipes"
         url: /recipes/
