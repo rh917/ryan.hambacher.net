@@ -17,7 +17,7 @@ modified: 2016-04-18T16:39:37-04:00
 
 {% include base_path %}
 
-This page is a placeholder for information about the site and/or author. Content will be added at a later date.
+This page is a placeholder for information about the site and/or author. Content will be added at a later date. :smile:
 
 The theme includes responsive layouts (`single`, `archive`, and `splash` pages) that look great on mobile and desktop browsers.
 
