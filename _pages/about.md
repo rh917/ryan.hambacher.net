@@ -13,6 +13,7 @@ layouts_gallery:
     image_path: /images/mm-layout-archive.png
     alt: "archive layout example"
 modified: 2022-03-28T18:00:00-05:00
+author_profile: true
 ---
 
 {% include base_path %}

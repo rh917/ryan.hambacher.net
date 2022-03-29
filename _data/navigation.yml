@@ -1,10 +1,12 @@
 # main links
 main:
   - title: Home
-    url: index.html
+    url: /
   - title: About
     url: /about/
   - title: Blog
     url: /blog/
   - title: "Recipes"
     url: /recipes/
+  - title: "Resume"
+    url: /cv/
