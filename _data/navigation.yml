@@ -4,12 +4,7 @@ main:
     url: index.html
   - title: About
     url: /about/
-    children:
-      - title: Resume
-        url: /cv/
-  - title: Docs
-    children:
-      - title: "Blog"
-        url: /blog/
-      - title: "Recipes"
-        url: /recipes/
+  - title: Blog
+    url: /blog/
+  - title: "Recipes"
+    url: /recipes/
