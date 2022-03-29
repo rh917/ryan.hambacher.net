@@ -22,8 +22,7 @@ description               : >- # this means to ignore newlines until "baseurl:"
 baseurl                   : "/" # the subpath of your site, e.g. /blogs
 url                       : https://ryan.hambacher.net
 domain                    : ryan.hambacher.net
-twitter_username          : rhambacher
-github_username           : rh917
+
 
 # --- List of links in the navigation bar --- #
 
@@ -202,7 +201,7 @@ date_format: "%B %-d, %Y"
 
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
