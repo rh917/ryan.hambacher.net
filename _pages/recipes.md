@@ -4,10 +4,6 @@ title: "Recipes"
 permalink: /recipes/
 ---
 
-{% for post in site.recipes %}
-  {% include archive-single.html %}
-{% endfor %}
-
 
 <div id="home">
   <h1>Recipes</h1>
