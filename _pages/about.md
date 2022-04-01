@@ -1,49 +1,10 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /images/mm-layout-splash.png
-    image_path: /images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /images/mm-layout-single-meta.png
-    image_path: /images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /images/mm-layout-archive.png
-    image_path: /images/mm-layout-archive.png
-    alt: "archive layout example"
+layout: page
 modified: 2022-03-28T18:00:00-05:00
 ---
 
-{% include base_path %}
+About
 
 This page is a placeholder for information about the site and/or author. Content will be added at a later date. :smile:
-
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
-
----
-
-## Demo Pages
-
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tags. |
-
-
-
-[header-image-post]: {{ base_path }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ base_path }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ base_path }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ base_path }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ base_path }}/recipes/chocolate-chip-cookies/
-[categories-archive]: {{ base_path }}/categories/
-[tags-archive]: {{ base_path }}/tags/
-[year-archive]: {{ base_path }}/year-archive/
-
----

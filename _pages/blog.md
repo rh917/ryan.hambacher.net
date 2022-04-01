@@ -1,7 +1,7 @@
 ---
-layout: single
 title: Blog
 permalink: /blog/
+layout: page
 ---
 
 This is a placeholder for a blog. Below will contain blog entries and other musings. 
