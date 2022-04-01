@@ -1,0 +1,16 @@
+---
+layout: single
+title: Blog
+permalink: /blog/
+---
+
+This is a placeholder for a blog. Below will contain blog entries and other musings. 
+
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
